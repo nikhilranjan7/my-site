@@ -3,7 +3,7 @@ Learning Django
 .. image:: https://travis-ci.org/pavdmyt/django_rango.svg?branch=master
     :target: https://travis-ci.org/pavdmyt/django_rango
 .. image:: https://coveralls.io/repos/pavdmyt/django_rango/badge.svg?branch=master&service=github
-    :target: https://coveralls.io/github/pavdmyt/django_rango?branch=master 
+    :target: https://coveralls.io/github/pavdmyt/django_rango?branch=master
 
 Repo for working through `How To Tango With Django`_ book.
 
@@ -42,7 +42,7 @@ Currently website is deployed via PythonAnywhere_ and could be found here_.
 .. _CSS: http://www.w3schools.com/css/
 .. _Javascript: https://www.javascript.com/
 .. _JQuery: https://jquery.com/
-.. _Bootstrap: http://getbootstrap.com/ 
+.. _Bootstrap: http://getbootstrap.com/
 .. _FAROO search API: http://www.faroo.com/hp/api/api.html
 .. _PythonAnywhere: https://www.pythonanywhere.com/
-.. _here: http://fioqua.pythonanywhere.com/rango/
+.. _here: http://nikhilranjan.pythonanywhere.com/rango/
